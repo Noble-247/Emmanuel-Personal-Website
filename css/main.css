@@ -402,8 +402,8 @@ main#home h1 {
 }
 
 @media screen and (max-width: 500px) {
-  .nav-link {
-    font-size: 100px;
+  #about > div > div.bio > p {
+    font-size: 1.1rem;
   }
   main {
     padding: 2rem;

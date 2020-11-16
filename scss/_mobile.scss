@@ -56,8 +56,8 @@
 
 // Smartphones
 @include mediaSm {
-    .nav-link {
-        font-size: 100px;
+    #about>div>div.bio>p {
+        font-size: 1.1rem;
     }
     main {
         padding: 2rem;
